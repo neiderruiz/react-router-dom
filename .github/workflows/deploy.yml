@@ -1,10 +1,9 @@
-name: REACT VITE DEV CD 🚀
+name: REACT VITE MAIN CD 🚀
 
 on:
   push:
     branches:
-      - dev
-      # - none
+      - main
 
 jobs:
   build-and-push:
