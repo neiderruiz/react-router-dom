@@ -35,6 +35,9 @@ jobs:
       - name: Building project 🔧
         run: npm run build
 
+      - name: Copy index.html to 404.html 📝
+        run: cp dist/index.html dist/404.html
+
       - name: Configuring git user 📝
         run: |
           git config user.name "GitHub Actions"
