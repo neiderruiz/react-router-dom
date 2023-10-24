@@ -10,3 +10,27 @@
 [Doc FontAwesome React](https://fontawesome.com/v5/docs/web/use-with/react)
 
 [Doc install tailwind vite](https://tailwindcss.com/docs/guides/vite)
+
+
+## clone project
+    
+```bash
+git clone https://github.com/neiderruiz/react-router-dom.git
+```
+
+```bash
+cd react-router-dom
+```
+
+
+## install dependencies
+
+```bash
+npm install
+```
+
+## run project
+
+```bash
+npm run dev
+```
